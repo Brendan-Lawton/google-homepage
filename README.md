@@ -1,0 +1,1 @@
+// This project is incorporating HTML, CSS, and Terminal skills to build a look-alike Google Homepage and add it to my Github. // 
